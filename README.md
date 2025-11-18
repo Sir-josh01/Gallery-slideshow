@@ -1,5 +1,5 @@
 # Rotating Image Gallery
-
+An Image Gallery with advanced features.
 
 ## Table of contents
 
@@ -17,11 +17,12 @@
 
 ## Overview
 
-Built a fancy Image Gallery that displays static images with a nice rotating feature.
+Built a fancy Image Gallery that displays static images with a nice rotating feature with HTML, CSS and  Vanilla JavaScript.
 
 ### The challenge
 
--Getting the images to rotate after a specific stimulated time
+-Getting the images to rotate after a specific stimulated time.
+-Making the image of same size and rotate accordingly
 
 ### Screenshot
 
@@ -31,8 +32,8 @@ Built a fancy Image Gallery that displays static images with a nice rotating fea
 
 ### Links
 
-- Solution URL: [@GitHub](https://github.com/Sir-josh01/)
-- Live Site URL: [@GitHub](https://sir-josh01.github.io/)
+- Solution URL: [@GitHub]( https://github.com/Sir-josh01/rotating-image-gallery.git)
+- Live Site URL: [@](https://sir-josh01.github.io/)
 
 ## My process
 - Structure with HTML, 
