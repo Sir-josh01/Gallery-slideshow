@@ -105,7 +105,7 @@ nextBtn.addEventListener('click', () => {
 
 ## Author
 
-- Website - [@sir_josh01](https://www.your-site.com)
+- Website - [@sir_josh01]([(https://my-portfolio-sir-josh01-projects.vercel.app/)]
 - Frontend Mentor - [@sir_josh01](https://www.frontendmentor.io/profile/sir_josh01)
 - Twitter - [@sir_josh01](https://www.twitter.com/Sir_josh01)
 - LinkedIn - [@sir_josh01](https://www.linkedin.com/in/sir-josh01)
