@@ -1,5 +1,5 @@
 # Rotating Image Gallery
-An Image Gallery with advanced features.
+This project is a classic UI carousel (or slider) designed to showcase multiple images in a compact, rotating space. Built purely with Vanilla JavaScript, HTML, and CSS, it features both automatic rotation and manual navigation controls. It serves as a strong demonstration of dynamic DOM manipulation and efficient, framework-free UI development.
 
 ## Table of contents
 
@@ -17,7 +17,7 @@ An Image Gallery with advanced features.
 
 ## Overview
 
-Built a fancy Image Gallery that displays static images with a nice rotating feature with HTML, CSS and  Vanilla JavaScript.
+The Image Carousel is a fundamental user interface component designed to efficiently showcase a collection of images or content in a compact, cyclical manner. Developed entirely using vanilla JavaScript, HTML, and CSS, this project demonstrates mastery of dynamic content manipulation and modern front-end interaction..
 
 ### The challenge
 
