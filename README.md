@@ -33,7 +33,7 @@ The Image Carousel is a fundamental user interface component designed to efficie
 ### Links
 
 - Solution URL: [@GitHub](https://github.com/Sir-josh01/Gallery-slideshow)
-- Live Site URL: [@Live-demo]()
+- Live Site URL: [@Live-demo](https://sir-josh01.github.io/Gallery-slideshow/)
 
 ## My process
 - Structure with HTML, 
