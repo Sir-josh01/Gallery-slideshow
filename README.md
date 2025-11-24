@@ -1,5 +1,5 @@
-# Rotating Image Gallery
-An Image Gallery with advanced features.
+# Gallery-slidehow
+This project is a classic UI carousel (or slider) designed to showcase multiple images in a compact, rotating space. Built purely with Vanilla JavaScript, HTML, and CSS, it features both automatic rotation and manual navigation controls. It serves as a strong demonstration of dynamic DOM manipulation and efficient, framework-free UI development.
 
 ## Table of contents
 
@@ -17,7 +17,7 @@ An Image Gallery with advanced features.
 
 ## Overview
 
-Built a fancy Image Gallery that displays static images with a nice rotating feature with HTML, CSS and  Vanilla JavaScript.
+The Image Carousel is a fundamental user interface component designed to efficiently showcase a collection of images or content in a compact, cyclical manner. Developed entirely using vanilla JavaScript, HTML, and CSS, this project demonstrates mastery of dynamic content manipulation and modern front-end interaction..
 
 ### The challenge
 
@@ -32,8 +32,8 @@ Built a fancy Image Gallery that displays static images with a nice rotating fea
 
 ### Links
 
-- Solution URL: [@GitHub]( https://github.com/Sir-josh01/rotating-image-gallery.git)
-- Live Site URL: [@](https://sir-josh01.github.io/)
+- Solution URL: [@GitHub](https://github.com/Sir-josh01/Gallery-slideshow)
+- Live Site URL: [@Live-demo]()
 
 ## My process
 - Structure with HTML, 
@@ -99,11 +99,10 @@ nextBtn.addEventListener('click', () => {
 
 ### Useful resources
 
-- [online_tutorial](https://www.Youtube.com) - Got some ideas from random Youtube videos.
-- [W3school](https://www.w3school.com) - An amazing site which helped with giving understanding alittle deeper about the concept of animation.
-
+- [Gemini-AI](https://www.gemini.com) - Acquired some resources here.
 
 ## Author
+
 
 - Website - [@sir_josh01](https://my-portfolio-f43qpo3lz-sir-josh01-projects.vercel.app/)
 - Frontend Mentor - [@sir_josh01](https://www.frontendmentor.io/profile/sir_josh01)
