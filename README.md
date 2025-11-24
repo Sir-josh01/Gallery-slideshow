@@ -32,8 +32,8 @@ The Image Carousel is a fundamental user interface component designed to efficie
 
 ### Links
 
-- Solution URL: [@GitHub]( https://github.com/Sir-josh01/rotating-image-gallery.git)
-- Live Site URL: [@](https://sir-josh01.github.io/)
+- Solution URL: [@GitHub](https://github.com/Sir-josh01/Gallery-slideshow)
+- Live Site URL: [@Live-demo]()
 
 ## My process
 - Structure with HTML, 
@@ -99,13 +99,13 @@ nextBtn.addEventListener('click', () => {
 
 ### Useful resources
 
-- [Example resource 1](https://www.google.com) - Acquired some resources from stackoverflow.
-- [Example resource 2](https://www.w3school/CSS-animation.com) - An amazing site which helped with giving understanding alittle deeper about the concept of animation.
+- [Gemini-AI](https://www.gemini.com) - Acquired some resources here.
+
 
 
 ## Author
 
-- Website - [@sir_josh01]([(https://my-portfolio-sir-josh01-projects.vercel.app/)]
+- Website - [@sir_josh01]((https://my-portfolio-sir-josh01-projects.vercel.app/)
 - Frontend Mentor - [@sir_josh01](https://www.frontendmentor.io/profile/sir_josh01)
 - Twitter - [@sir_josh01](https://www.twitter.com/Sir_josh01)
 - LinkedIn - [@sir_josh01](https://www.linkedin.com/in/sir-josh01)
