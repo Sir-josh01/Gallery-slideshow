@@ -94,18 +94,18 @@ nextBtn.addEventListener('click', () => {
 
 ### Continued development
 
--To add an API and integrate the application to change multiple images
+-To add an API and integrate the application to change more multiple images
 -Add a button that makes the rotation stop and another that increases the speed  
 
 ### Useful resources
 
-- [Example resource 1](https://www.google.com) - Acquired some resources from stackoverflow.
-- [Example resource 2](https://www.w3school/CSS-animation.com) - An amazing site which helped with giving understanding alittle deeper about the concept of animation.
+- [online_tutorial](https://www.Youtube.com) - Got some ideas from random Youtube videos.
+- [W3school](https://www.w3school.com) - An amazing site which helped with giving understanding alittle deeper about the concept of animation.
 
 
 ## Author
 
-- Website - [@sir_josh01](https://www.your-site.com)
+- Website - [@sir_josh01](https://my-portfolio-f43qpo3lz-sir-josh01-projects.vercel.app/)
 - Frontend Mentor - [@sir_josh01](https://www.frontendmentor.io/profile/sir_josh01)
 - Twitter - [@sir_josh01](https://www.twitter.com/Sir_josh01)
 - LinkedIn - [@sir_josh01](https://www.linkedin.com/in/sir-josh01)
